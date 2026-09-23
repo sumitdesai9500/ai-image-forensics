@@ -1,5 +1,7 @@
 # Layers 1-3 Build (Semi Finished)
 
+This is the initial Build V1.0 which forms the base for the Finial Service AI Image identifier.
+
 Backend AI image forensics engine for Layers 1-3:
 
 1. Provenance and metadata

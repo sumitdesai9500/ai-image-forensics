@@ -1,0 +1,14 @@
+.venv/ 
+.venv4/ 
+__pycache__/ 
+.pytest_cache/ 
+*.pyc 
+ 
+# ML model files 
+models/*.onnx 
+models/*.pt 
+models/*.pth 
+ 
+# Forensic evidence / uploaded analysis data 
+storage/analyses/ 
+.venv4/
